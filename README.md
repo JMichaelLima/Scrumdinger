@@ -1,0 +1,3 @@
+# Scrumdinger
+
+Some official Apple tutorial (https://developer.apple.com/tutorials/app-dev-training/) starter files. Using to learn Swift, xCode, etc. May finish...
